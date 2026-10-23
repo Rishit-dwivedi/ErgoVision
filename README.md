@@ -94,5 +94,5 @@ Digital fatigue
 ErgoVision provides a real-time AI-based solution to promote healthier screen usage.
 
 # 👩‍💻 Author
-Sakshi Gupta
+Rishit kumar dwivedi
 Computer Vision & AI Enthusiast
